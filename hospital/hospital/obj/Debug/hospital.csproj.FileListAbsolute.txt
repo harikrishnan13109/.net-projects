@@ -1,0 +1,6 @@
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\bin\hospital.dll.config
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\bin\hospital.dll
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\bin\hospital.pdb
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\obj\Debug\hospital.dll
+c:\users\hari  krish\documents\visual studio 2013\Projects\hospital\hospital\obj\Debug\hospital.pdb
