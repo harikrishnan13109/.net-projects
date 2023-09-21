@@ -35,6 +35,8 @@ namespace hospital
             cmd.ExecuteNonQuery();
             Response.Write("<Script>alert('Data Saved Successfully....')</script>");
             sc.Close();
+            var s = "";
+            var w="";
         }
 
         protected void Button2_Click(object sender, EventArgs e)
